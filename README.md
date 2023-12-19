@@ -12,6 +12,8 @@ pip install .
 
 That's it, you are all set up.
 
+For the licensing terms, please refer to the [License](LICENSE.txt) file.
+
 *** Copyright Notice ***
 
 Vehicle-to-grid Simulator (V2G-Sim) Copyright (c) 2015, The
