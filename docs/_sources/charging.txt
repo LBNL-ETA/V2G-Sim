@@ -1,0 +1,25 @@
+charging package
+================
+
+charging.uncontrolled
+---------------------
+
+.. automodule:: v2gsim.charging.uncontrolled
+    :members:
+    :show-inheritance:
+
+
+charging.station
+----------------
+
+.. automodule:: v2gsim.charging.station
+    :members:
+    :show-inheritance:
+
+
+charging.controlled
+---------------------
+
+.. automodule:: v2gsim.charging.controlled
+    :members:
+    :show-inheritance:
