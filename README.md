@@ -12,7 +12,7 @@ pip install .
 
 That's it, you are all set up.
 
-For the licensing terms, please refer to the [License](LICENSE.txt) file.
+For the licensing terms, please refer to the [License](License.txt) file.
 
 *** Copyright Notice ***
 
